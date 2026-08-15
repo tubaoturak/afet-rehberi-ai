@@ -1,0 +1,151 @@
+# TÜRK KIZILAYI - KEMİK, EKLEM VE OMURGA YARALANMALARI MASTER REHBERİ
+
+====================================================================
+1. KIRIKLARDA İLK YARDIM VE SABİTLEME (ATEL) PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Kolum / bacağım kırıldı, ne yapmalıyım?
+- Kırık kemik nasıl sabitlenir ve atel nasıl yapılır?
+- Açık kırıkta dışarı çıkan kemiğe ne yapılır?
+- Kırık, çıkık ve ezilme nasıl ayırt edilir?
+- Kırık şüphesinde ilk yardım adımları nelerdir?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Olay yeri güvenliğini sağlayın ve hastayı sakinleştirin; yaralı bölgeyi KESİNLİKLE hareket ettirmeyin.
+2) AÇIK KIRIK VARSA: Dışarı çıkan kemiğe dokunmadan önce varsa kanamayı temiz bir bezle bastırarak durdurun ve yaranın üzerini steril/temiz bir bezle örtün.
+3) Sert bir sabitleme malzemesi (tahta, karton, gazete rulosu vb.) temin edin; malzemenin kırığın bir üst ve bir alt eklemini içine alacak uzunlukta olmasını sağlayın.
+4) Atel malzemesini doğrudan çıplak cilde temas ettirmemek için araya pamuk veya yumuşak bir kumaş yerleştirin.
+5) Kırık bölgeyi bulunduğu doğal pozisyonda sargı bezi veya kumaş şeritlerle sabitleyin (kan dolaşımını engellemeyecek sıkılıkta).
+6) Parmak uçlarında nabız, his kaybı, morarma veya soğuma olup olmadığını düzenli olarak kontrol edin.
+7) 112 Acil Çağrı Merkezini arayarak profesyonel yardım isteyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Kırılan kemiği ASLA düzeltmeye, çekmeye veya yerine oturtmaya çalışmayın.
+- Açık kırıklarda dışarı fırlamış kemik uçlarını KESİNLİKLE içeri itmeyin.
+- Ateli kan dolaşımını kesecek kadar aşırı sıkı sarmayın.
+- Kırık şüphesi olan bacağın üzerine basılmasına veya kolun hareket ettirilmesine izin vermeyin.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Kemik deriyi delip dışarı çıktıysa (açık kırık),
+- Uzuvda belirgin şekil bozukluğu, nabızsızlık, morarma veya his kaybı varsa,
+- Uyluk (femur), kalça, boyun veya omurga kırığı şüphesi mevcutsa derhal 112'yi arayın.
+
+---
+
+====================================================================
+2. ÇIKIKLARDA İLK YARDIM PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Omuz / parmak / çene çıkmasında ne yapılır?
+- Çıkan eklem yerine nasıl oturtulur?
+- Çıkık ile kırık arasındaki fark nedir?
+- Eklem yerinden oynadı, ilk yardım nasıl olmalı?
+- Çıkık olan yere sıcak mı soğuk mu uygulanır?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Hastayı sakinleştirin ve çıkan eklemi KESİNLİKLE hareket ettirmeyin.
+2) Eklemi bulunduğu anormal pozisyonda bir bez, askı veya atel yardımıyla sabitleyin (hareketsiz hale getirin).
+3) Şişliği ve ağrıyı azaltmak amacıyla bölgeye temiz bir beze sarılmış buz / soğuk kompres uygulayın.
+4) Uzvun uç noktalarında (parmaklarda) dolaşım, renk ve his kontrolü yapın.
+5) Vakit kaybetmeden 112 Acil Çağrı Merkezini arayın veya hastanın acil servise sevkini sağlayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Çıkan eklemi ASLA yerine oturtmaya, çekmeye veya ovmaya çalışmayın (damar ve sinir kopmalarına yol açabilir).
+- Bölgeye doğrudan sıcak kompres uygulamayın veya sıcak suyla ovmayın.
+- Buzu doğrudan çıplak deriye temas ettirmeyin (soğuk yanığına neden olur).
+- Hastaya ağızdan yiyecek veya içecek vermeyin (acil anestezi/ameliyat gerekebilir).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Eklemde şiddetli şekil bozukluğu ve kilitlenme varsa,
+- Parmaklarda morarma, soğuma veya şiddetli uyuşma/hissizlik gelişmişse derhal 112'yi arayın.
+
+---
+
+====================================================================
+3. BURKULMALARDA İLK YARDIM (R.I.C.E. PROTOKOLÜ)
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Ayak / bilek burkulmasında ilk yardım nasıl yapılır?
+- Burkulan ayağa buz kaç dakika konur?
+- Burkulmaya sıcak su mu iyi gelir soğuk mu?
+- Burkulmada RICE kuralı nedir?
+- Burkulma sonrası şişlik ve morarma nasıl geçer?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) **R (Rest - Dinlenme):** Yaralı eklemi kullanmayı hemen bırakın, hastayı oturtun veya yatırın; üzerine kesinlikle basmayın.
+2) **I (Ice - Buz):** Şişlik ve ağrıyı engellemek için ilk 48 saat boyunca bir beze sarılı buzu 20 dakika uygulayın, 20 dakika ara vererek tekrarlayın.
+3) **C (Compression - Basınç / Kompresyon):** Bölgeyi elastik bir bandaj ile hafif sıkılıkta sararak ödemi sınırlayın (kan akışını durdurmayacak şekilde).
+4) **E (Elevation - Yükseltme):** Yaralı eklemi yerçekiminden faydalanarak kalp seviyesinin üzerine kaldırın ve altına yastıkla destek koyun.
+5) Ağrı dinmiyorsa veya basamıyorsa kırık/çatlak ihtimaline karşı sağlık kuruluşuna başvurun.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- İlk 48 saat boyunca burkulan bölgeye KESİNLİKLE sıcak su torbası, kaplıca suyu veya ısıtıcı krem uygulamayın (ödemi ve iç kanamayı artırır).
+- Buzu çıplak cilde doğrudan koymayın.
+- "Kırıkçı/çıkıkçıya" götürerek eklemi çektirmeyin veya sert masaj yaptırmayın.
+- Elastik bandajı parmakları morartacak kadar çok sıkı sarmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Burkulma sonrası eklemde taşıyıcı kemik üzerinde çıtırtı sesi duyulduysa veya anormal hareket varsa,
+- Şiddetli şişlik, morarma ve üzerine hiç basamama durumu varsa, kırık ihtimalini ekarte etmek için 112'yi arayın veya acile başvurun.
+
+---
+
+====================================================================
+4. OMURGA VE BOYUN TRAVMALARINDA İLK YARDIM PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Yüksekten düşen veya kaza geçiren biri nasıl tutulur?
+- Boyun ve bel kırığı belirtileri nelerdir?
+- Kaza yerinde yaralı araçtan nasıl çıkarılır, oynatılır mı?
+- Kütük yuvarlama tekniği nedir?
+- Kol ve bacaklarda hissizlik olan kazazedeye ne yapılır?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Olay yeri güvenliğini sağlayın ve DERHAL 112 Acil Çağrı Merkezini arayın / aratın.
+2) Hastayı KESİNLİKLE HAREKET ETTİRMEYİN, ayağa kaldırmayın ve boynunu bükmeyin.
+3) Baş, boyun ve gövde eksenini düz bir hat üzerinde tutun; hastanın başını her iki elinizle kulak hizasından tutarak sabitleyin.
+4) Bilinci açık tutmak için sürekli konuşun; başını çevirmemesi gerektiğini net olarak söyleyin.
+5) KUSMA VEYA SOLUNUM YOLU RİSKİNDE: Hastanın başını tek başına çevirmeyin; en az 3 kişiyle baş, boyun ve gövdeyi tek parça halinde aynı anda yana çevirin (Kütük Yuvarlaması Tekniği).
+6) Profesyonel sağlık ekipleri özel boyunluk ve sedye ile gelene kadar pozisyonu hiç bozmadan bekleyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Omurga şüphesi olan kazazedeyi asla karga tulumba taşımayın veya ayağa kaldırmaya çalışmayın (kalıcı felce veya ölüme yol açar).
+- Yangın veya patlama gibi hayati bir tehlike yoksa kazazedeyi araçtan veya yerden kesinlikle kıpırdatmayın.
+- Hastanın başının altına yastık veya katlanmış giysi koyarak boynunu öne bükmeyin.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Yüksekten düşme, araç içi/dışı trafik kazası veya göçük altından çıkma durumlarında,
+- Kazazedede şiddetli boyun/sırt ağrısı, kol/bacaklarda uyuşma, karıncalanma veya his/hareket kaybı (felç) varsa VAKİT KAYBETMEDEN 112'yi arayın.
+
+---
+
+====================================================================
+5. YARALI TAŞIMA TEKNİKLERİ VE ACİL TAHLİYE PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Yaralı en güvenli nasıl taşınır?
+- İtfaiyeci taşıma yöntemi nasıl yapılır?
+- Sedye olmadan yaralı nasıl taşınır (el ele koltuk yöntemi)?
+- Omurga kırığı şüphesi olan hasta nasıl taşınmalıdır?
+- Kaza yerinde tehlike anında yaralı tahliyesi nasıl yapılır?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Kural olarak; hayati bir tehlike (yangın, patlama, gaz kaçağı, göçük riski) yoksa yaralıyı KESİNLİKLE TAŞIMAYIN, yerinde müdahale edin.
+2) Taşıma zorunluysa, yaralının durumuna ve omurga travması şüphesine göre yöntem seçin:
+3) **Tek Kişi ile Taşıma (İtfaiyeci Yöntemi):** Yürüyemeyen veya bilinci kapalı olan ancak omurga şüphesi bulunmayan yaralıyı omzunuza alarak bir elinizle bacağını, diğer elinizle bileğini kavrayıp taşıyın.
+4) **İki Kişi ile Taşıma (El Ele Koltuk Yöntemi):** Kurtarıcılar karşılıklı geçip bileklerini birbirine kenetleyerek bir oturak oluşturur; bilinci açık yaralıyı bu oturağa oturtup kollarıyla kurtarıcıların omuzlarına tutunmasını sağlayarak taşıyın.
+5) **Acil Sedye Oluşturma:** Sağlam iki sırık arasına battaniye, ceket veya sert kapı/tahta panel koyarak geçici sedye hazırlayın.
+6) **Omurga Şüpheli Taşıma (Kütük Yuvarlama / Blok Taşıma):** En az 3-4 kurtarıcı ile baş-boyun-gövde ekseni bozulmadan, bir kişinin komutuyla aynı anda kaldırılarak sert omurga tahtasına veya sedyeye alın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Acil tahliye gerektiren hayati bir tehlike yokken yaralıyı gelişigüzel sürüklemeyin veya kucaklamayın.
+- Omurga kırığı şüphesi olan kişiyi tek kişiyle sırtlayarak veya karga tulumba taşımayın.
+- Taşıma sırasında kurtarıcılar kendi bel mekaniğini bozmamalı (dizleri bükerek ağırlığı bacaklardan almalıdır).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Yaralının kendi imkanlarıyla hareket edemediği tüm travmatik yaralanmalarda ve taşınma ihtiyacında profesyonel ekip için DERHAL 112'yi arayın.

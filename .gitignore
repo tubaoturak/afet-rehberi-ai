@@ -1,0 +1,38 @@
+# Python & Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local Vector Database & Models
+knowledge.db
+*.db
+*.sqlite3
+models/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Node & Frontend Build Artifacts
+node_modules/
+dist/
+build/
+coverage/
+.parcel-cache/
+.eslintcache
+
+# OS & Editor Specific
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+

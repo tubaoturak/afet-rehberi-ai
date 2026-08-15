@@ -1,0 +1,38 @@
+services:
+  afet-rehberi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: afet_rehberi
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      - AFET_DATA_DIR=/app/data
+      - AFET_DB_PATH=/app/db/knowledge.db
+      - AFET_MODEL_CACHE_DIR=/models
+      - AFET_ALLOW_MODEL_DOWNLOAD=${AFET_ALLOW_MODEL_DOWNLOAD:-1}
+      - AFET_CHAT_MODEL=${AFET_CHAT_MODEL:-qwen2.5-1.5b}
+      - AFET_EMBEDDING_MODEL=${AFET_EMBEDDING_MODEL:-qwen3-embedding-0.6b}
+      - AFET_TOP_K=${AFET_TOP_K:-1}
+      - AFET_MAX_TOKENS=${AFET_MAX_TOKENS:-260}
+      - AFET_TEMPERATURE=${AFET_TEMPERATURE:-0.2}
+      - AFET_FORCE_INGEST=${AFET_FORCE_INGEST:-0}
+      - OMP_NUM_THREADS=8
+      - MKL_NUM_THREADS=8
+      - OPENBLAS_NUM_THREADS=8
+      - HOST=0.0.0.0
+      - PORT=8000
+    volumes:
+      - ./data:/app/data
+      - foundry_models:/models
+      - knowledge_db:/app/db
+    restart: unless-stopped
+    cpus: 8
+    mem_limit: 16g
+
+volumes:
+  foundry_models:
+  knowledge_db:

@@ -1,0 +1,204 @@
+# TÜRK KIZILAYI - TEMEL İLK YARDIM VE ACİL MÜDAHALE REHBERİ
+
+====================================================================
+1. TEMEL YAŞAM DESTEĞİ VE BİLİNÇ KONTROLÜ REHBERİ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Biri bayıldı / yere yığıldı, ne yapmalıyım?
+- Bayılan birine su içirilir mi?
+- Kalbi veya nefesi duran kişiye ilk yardım nasıl yapılır?
+- Bilinç ve solunum kontrolü nasıl anlaşılır?
+- Temel yaşam desteği (kalp masajı) adımları nelerdir?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Çevre ve olay yeri güvenliğini sağlayın; sakin olun.
+2) Hastanın omuzlarına hafifçe dokunup "İyi misiniz?" diye seslenerek bilinç kontrolü yapın.
+3) Bilinç kapalıysa derhal çevredeki birine "112 Acil Çağrı Merkezini ara" diyerek net talimat verin (tek başınaysanız 112'yi hemen hoparlörden arayın).
+4) Hava yolunu açın (Baş-Çene pozisyonu verin) ve 10 saniye boyunca "Bak-Dinle-Hisset" yöntemiyle solunumu kontrol edin.
+5) Solunum yoksa veya anormal/düzensizse vakit kaybetmeden Temel Yaşam Desteğine (30 kalp masajı ve 2 suni solunum döngüsü) başlayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Bilinci kapalı veya yarı kapalı kişiye ASLA su, içecek veya yiyecek vermeyin (akciğere kaçıp boğulmaya neden olur).
+- Bilinci kapalı kişiyi sarsmayın, tokat atmayın, kolonya/alkol koklatmayın.
+- Solunumu kontrol etmeden ve eğitiminiz olmadan gelişigüzel müdahale yapmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Kişi sesli veya fiziksel uyaranlara tepki vermiyorsa (bilinç kapalıysa),
+- Normal solunum yoksa veya solunum durmuşsa DERHAL 112'yi arayın.
+
+---
+
+====================================================================
+2. KANAMALARDA İLK YARDIM VE BASKI UYGULAMA PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Şiddetli kanama nasıl durdurulur?
+- Kesik kanamasına ilk yardım nasıl yapılır?
+- Kanayan yere ne basılır?
+- Turnike ne zaman ve nasıl uygulanır?
+- Fışkıran kanamayı durdurma yöntemleri nelerdir?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Kanayan bölgenin üzerine doğrudan temiz bir bez veya gazlı bez koyarak sıkıca bastırın.
+2) İlk bez kanla ıslanırsa bezi KESİNLİKLE KALDIRMADAN üzerine ikinci bir temiz bez ekleyip baskıyı artırın.
+3) Kırık/çıkık şüphesi yoksa kanayan bölgeyi kalp seviyesinin yukarısına kaldırın.
+4) Baskıyı devam ettirmek için bezi bandaj veya sargı beziyle sıkıca sabitleyin (dolaşımı tamamen durdurmayacak şekilde).
+5) TURNİKE UYGULAMASI: Yalnızca uzuv/organ kopması durumunda veya baskıyla durdurulamayan, hayati tehlike yaratan fışkırır tarzdaki uzuv kanamalarında son çare olarak uygulanır.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- İlk koyduğunuz kanlı bezi kaldırıp yaraya bakmayın (oluşan pıhtıyı koparır ve kanamayı şiddetlendirir).
+- Turnikeyi boyun veya gövdeye kesinlikle uygulamayın; gereksiz yere veya ince teller/iplerle turnike yapmayın.
+- Yaranın üzerine tütün, kül, kahve, tentürdiyot veya toz gibi yabancı maddeler dökmeyin.
+- Yaraya saplanmış yabancı cisimleri (bıçak, cam, demir vb.) ASLA çıkarmayın, etrafını destekleyerek sabitleyin.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Kanama doğrudan baskıya rağmen 10-15 dakika içinde durmuyorsa,
+- Kan fışkırarak veya çok şiddetli şekilde akıyorsa (atardamar kanaması),
+- Uzuv/organ kopması varsa,
+- Yaralıda halsizlik, solgunluk, soğuk terleme veya bayılma (şok belirtileri) gelişiyorsa derhal 112'yi arayın.
+
+---
+
+====================================================================
+3. BOĞULMA VE SOLUK BORUSU TIKANMASI (HEIMLICH MANEVRASI) PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Boğazına bir şey kaçan birine ne yapılır?
+- Heimlich manevrası nasıl yapılır?
+- Nefes alamayan, boğulan kişiye ilk yardım adımları nelerdir?
+- Bebeklerde boğulma ve soluk borusu tıkanmasında ne yapılır?
+- Tam tıkanma ile kısmi tıkanma arasındaki fark nedir?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+
+### Yetişkin ve Çocuklarda (Tam Tıkanma: Konuşamaz, nefes alamaz, ellerini boynuna götürür):
+1) Kişinin arkasına geçin ve gövdesini hafifçe öne eğerek kürek kemiklerinin arasına el ayanızın tabanıyla 5 kez kuvvetlice vurun.
+2) Cisim çıkmadıysa arkasında durup gövdesini kollarınızla sarın.
+3) Bir elinizi yumruk yaparak başparmağınız içeride kalacak şekilde göğüs kemiğinin alt ucu ile göbek deliği arasına yerleştirin.
+4) Diğer elinizle yumruğunuzu kavrayın; içeri ve yukarı doğru ("J" hareketi şeklinde) kuvvetlice 5 kez bastırın (Heimlich Manevrası).
+5) Cisim çıkana veya kişi bilincini kaybedene kadar 5 sırt vuruşu - 5 Heimlich manevrası döngüsünü sürdürün.
+
+### Bebeklerde (1 Yaş Altı):
+1) Bebeği kolunuzun üzerine yüzüstü, başı gövdesinden hafif aşağıda olacak şekilde yatırın.
+2) Kürek kemiklerinin arasına el ayanızla 5 kez hafifçe vurun.
+3) Cisim çıkmadıysa bebeği sırtüstü çevirin; göğüs kemiğinin ortasına iki parmağınızla 5 kez göğüs basısı uygulayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Kişi öksürebiliyorsa veya konuşabiliyorsa (kısmi tıkanma) sırtına vurmayın; sadece kuvvetle öksürmesini teşvik edin.
+- Ağız içinde görmediğiniz bir cismi körlemesine parmakla aramaya çalışmayın (cismi daha derine itersiniz).
+- Bebeklere asla yetişkin Heimlich manevrası uygulamayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Tam tıkanma belirtileri başladığı anda derhal çevreden birine 112'yi aratın.
+- Kişi bilincini kaybederse derhal yere yatırın, 112'yi arayın ve Temel Yaşam Desteğine (kalp masajı) başlayın.
+
+---
+
+====================================================================
+4. YANIKLAR VE ISI YARALANMALARI İLK YARDIM PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Elime kaynar su / yağ döküldü ne yapmalıyım?
+- Yanığa diş macunu veya yoğurt sürülür mü?
+- Yanık su topladı, patlatmalı mıyım?
+- Yanık ilk yardımında buz konur mu?
+- 1. derece, 2. derece ve 3. derece yanıklarda ne yapılır?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Isı/yanık kaynağıyla teması derhal kesin ve ortam güvenliğini sağlayın.
+2) Yanık bölgeyi en az 15-20 dakika boyunca hafif akan, temiz ve serin/oda sıcaklığındaki suyun altında tutun (soğutun).
+3) Şişme (ödem) oluşabileceği için yüzük, saat, bileklik gibi takıları ve sıkı giysileri hemen çıkarın.
+4) Yanık üzerindeki giysileri çıkarırken dikkat edin; ancak YAPIŞMIŞ giysileri kesinlikle çekmeyin, etrafından kesin.
+5) Yanık bölgesini temiz, nemli veya yapışmayan steril bir bezle gevşekçe örtün.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Yanık üzerine ASLA diş macunu, yoğurt, salça, un, zeytinyağı, kolonya veya yanık merhemi sürmeyin (enfeksiyona yol açar).
+- Yanık bölgesine ASLA doğrudan buz koymayın (doku donmasına ve hasarın derinleşmesine neden olur).
+- Yanık sonrası su toplayan kabarcıkları (bülleri) KESİNLİKLE patlatmayın (doğal steril koruyucu bariyerdir).
+- Yanığa yapışmış kıyafetleri zorla söküp çıkarmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Yanık yüz, boyun, el, ayak, eklem yerleri veya genital bölgedeyse,
+- Yanık alanı hastanın el ayasından daha büyükse veya 2./3. derece derin yanıksa,
+- Kimyasal veya elektrik çarpması sonucu meydana gelen yanıklarda,
+- Bebek, çocuk veya yaşlılarda oluşan yanıklarda derhal 112'yi arayın.
+
+---
+
+====================================================================
+5. KIRIK, ÇIKIK VE BURKULMALARDA İLK YARDIM PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Kolum/bacağım kırıldı, ne yapmalıyım?
+- Kırık kemik yerine oturtulur mu?
+- Ayak burkulmasında ilk yardım nasıl yapılır?
+- Açık kırıkta ne yapılır?
+- Kırık bölge nasıl sabitlenir (atel uygulaması)?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Yaralıyı ve yaralı uzvu ASLA hareket ettirmeyin; hastayı bulunduğu pozisyonda tutun.
+2) Kırık/çıkık şüphesi olan bölgeyi bulunduğu mevcut pozisyonda sabitleyin (atel, sert karton veya tahta ile bir üst ve bir alt eklemi kapsayacak şekilde destekleyin).
+3) Ağrı ve şişliği azaltmak için bölgeye temiz bir beze sarılı buz/soğuk kompres uygulayın (cilde doğrudan temas ettirmeden 15-20 dk).
+4) Nabız ve dolaşımı kontrol edin (uzuvda soğuma, morarma veya hissizlik olup olmadığına bakın).
+5) AÇIK KIRIK DURUMUNDA: Dışarı çıkmış kemik uçlarını ASLA içeri itmeyin; önce varsa kanamayı temiz bezle baskı yaparak durdurun ve yaranın üzerini steril/temiz nemli bir bezle örtün, ardından sabitleyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Kırık, çıkık veya burkulan kemik/eklemi ASLA yerine oturtmaya veya düzeltmeye çalışmayın.
+- Açık kırıklarda dışarı çıkan kemik parçasını kesinlikle içeri itmeyin.
+- Buzu doğrudan çıplak deriye koymayın (soğuk yanığına yol açar).
+- Yaralı uzvun üzerine basmasına veya hareket ettirmesine izin vermeyin.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Açık kırık durumlarında (kemik deriyi delip dışarı çıktıysa),
+- Uzuvda şiddetli şekil bozukluğu, nabızsızlık, morarma veya his kaybı varsa,
+- Omurga, boyun, kafa veya kalça/uyluk kırığı şüphesi varsa (hastayı kesinlikle kımıldatmadan) derhal 112'yi arayın.
+
+---
+
+====================================================================
+6. KOMA VE İYİLEŞME POZİSYONU (RECOVERY POSITION) PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Bilinci kapalı ama nefes alan kişi nasıl yatırılır?
+- Koma pozisyonu nasıl verilir?
+- Yarı baygın kişi neden yan yatırılır?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Kazazedenin bilinci kapalı ancak DÜZENLİ NEFES ALIYORSA yan yatış (koma/iyileşme) pozisyonu verin.
+2) Size yakın olan kolunu dik açıyla yukarı doğru bükün.
+3) Diğer kolunu göğsün üzerinden geçirip elinin sırtını size yakın olan yanağının altına yerleştirin.
+4) Size uzak olan bacağını dizden bükerek kaldırın.
+5) Bükülen dizden ve omuzdan tutarak kazazedeyi tek bir hamlede kendinize doğru yan çevirin.
+6) Üstteki bacağı 90 derece bükerek gövdenin öne devrilmesini engelleyin; başı hafif geriye doğru eğerek hava yolunun açık kalmasını sağlayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Omurga, boyun veya kafa travması şüphesi olan kişiyi gereksiz yere çevirmeyin (hareketsiz tutun).
+- Koma pozisyonundaki kişiyi yalnız bırakmayın; solunumu 2-3 dakikada bir kontrol edin.
+
+---
+
+====================================================================
+7. ŞOK VE BAYILMA (SENKOP) İLK YARDIM PROTOKOLÜ (ŞOK POZİSYONU)
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Şok pozisyonu nasıl verilir, ayaklar kaç cm kaldırılır?
+- Biri bayılınca ayakları kaldırılır mı?
+- Şok belirtileri nelerdir, soğuk terlemede ne yapılır?
+
+## 📋 ADIM ADIM İLK YARDIM MÜDAHALESİ:
+1) Kazazedeyi sırtüstü düz bir zemine yatırın.
+2) Beyne ve hayati organlara kan akışını artırmak için bacaklarını yaklaşık 30 cm (ayak bileklerinin altına yastık/kıyafet koyarak) YUKARI KALDIRIN (Şok Pozisyonu).
+3) Sıkı giysilerini (yaka, kravat, kemer) gevşetin.
+4) Vücut ısısını korumak için üzerini bir battaniye ile örtün.
+5) Bilinç ve solunumu sürekli kontrol edin; 112 Acil Çağrı Merkezini arayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Kafa travması, boyun kırığı, beyin kanaması veya göğüs travması olan kişiye ŞOK POZİSYONU VERMEYİN (ayakları kaldırmayın).
+- Bayılan kişiye tokat atmayın, su sıçratmayın veya ağzına bir şey dökmeyin.

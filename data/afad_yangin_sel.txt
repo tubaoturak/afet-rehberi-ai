@@ -1,0 +1,208 @@
+# AFAD VE TÜRK KIZILAYI - YANGIN, SEL, HEYELAN VE ÇIĞ AFET REHBERİ
+
+====================================================================
+1. BİNA VE KAPALI ALAN YANGIN / DUMAN PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Yangın anında evden nasıl çıkılır?
+- Duman dolu odada nasıl hareket edilir?
+- Yangında asansör kullanılır mı?
+- Yangın çıktığında ilk ne yapılmalı, nereye kaçılır?
+- Dumandan zehirlenmemek için ne yapmak gerekir?
+
+## 📋 ADIM ADIM İLK YARDIM VE TAHLİYE MÜDAHALESİ:
+1) **Acil İhbar:** Yangını fark ettiğiniz anda panik yapmadan derhal **112 Acil Çağrı Merkezini** arayın ve çevrenizdekileri bağırarak/alarmı çalıştırarak uyarın.
+2) **Duman Tabakasının Altında Kalma:** Duman ve zehirli gazlar tavana doğru yükseldiği için derhal yere çömelin veya emekleyerek yer seviyesine (en temiz hava katmanına) yakın hareket edin.
+3) **Solunum Yollarını Koruma:** Ağzınızı ve burnunuzu mümkünse ıslak bir bez, mendil veya giysinizle kapatarak nefes alın.
+4) **Kapı Kontrolü (Sıcaklık Testi):** Bir kapıyı açmadan önce elinizin tersiyle kapı kolunu ve yüzeyini kontrol edin; sıcaksa kapıyı kesinlikle açmayın.
+5) **Ateş ve Dumanın İzolasyonu:** Odadan çıkarken yangın ve dumanın diğer alanlara yayılmasını geciktirmek için arkadaki kapıları kapatın (kesinlikle kilitlemeyin).
+6) **Güvenli Tahliye:** Yangın tahliye merdivenlerini kullanarak binayı sakince terk edin ve güvenli toplanma alanına geçin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Yangın anında kesinlikle ASANSÖRLERİ KULLANMAYIN (elektrik kesintisinde asansör boşluğu baca etkisiyle duman dolar ve mahsur kalırsınız).
+- Duman dolu ortamda dik yürümeyin veya koşmayın (sıcak dumanı ve zehirli karbonmonoksit gazını hızla ciğerlerinize çekersiniz).
+- Isınmış, arkasından duman sızan veya alev almış kapıları aniden açmayın (oksijen girişi ani parlama/patlama yani backdraft oluşturur).
+- Eşya kurtarmak amacıyla geri dönmeyin veya kişisel eşyaları toplamak için vakit kaybetmeyin.
+- Giysileriniz alev alırsa asla koşmayın; derhal **DUR - YAT - YUVARLAN** kuralını uygulayarak alevleri söndürün.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Yangın veya yoğun duman görüldüğü ilk saniyede vakit kaybetmeksizin 112 aranmalıdır.
+- Dumana maruz kalma sonucu solunum güçlüğü, bilinç bulanıklığı veya vücutta yanık oluşan durumlar için derhal ambulans talep edilmelidir.
+
+---
+
+====================================================================
+2. KIYAFETLER ALEV ALDIĞINDA: DUR - YAT - YUVARLAN PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Üstüm alev alırsa ne yapmalıyım?
+- Elbisem yanarken koşmak doğru mu?
+- Dur yat yuvarlan kuralı nedir ve nasıl uygulanır?
+
+## 📋 ADIM ADIM HAYATTA KALMA PROTOKOLÜ:
+1) **DUR:** Kesinlikle koşmayın! Koşmak havadaki oksijen akımını artırarak alevleri hızla büyütür ve alevlerin yüze yükselmesine neden olur.
+2) **YAT:** Hemen yere yatın. Ayakta kalmak alevlerin baş ve solunum yollarına ulaşmasını kolaylaştırır.
+3) **YÜZÜNÜZÜ KORUYUN:** İki elinizle yüzünüzü ve gözlerinizi sıkıca kapatarak alevlerden ve sıcaktan koruyun.
+4) **YUVARLAN:** Yerde sağa-sola ileri-geri yuvarlanarak alevlerin hava (oksijen) ile temasını kesin ve alevleri boğarak söndürün.
+5) Varsa yakındaki bir battaniye, kalın mont veya ıslak havluyla kazazedenin üzerini örterek ateşi boğun.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Giysileri alev alan kişinin panikle koşmasına izin vermeyin; gerekirse çelme takıp veya iterek yere yatırın.
+- Yanık deriye yapışmış sentetik kumaş parçalarını zorla çekip koparmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ:
+- Kıyafeti tutuşan ve vücudunda yanık oluşan tüm kazazedeler için derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+3. MUTFAK VE TAVA (YAĞ) YANGINLARI PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Yanan yağ tavasına su dökülür mü?
+- Mutfakta tava alev aldığında nasıl söndürülür?
+- Fritöz veya kızartma yağı yangınında ne yapılır?
+
+## 📋 ADIM ADIM MÜDAHALE PROTOKOLÜ:
+1) **Ocağı Kapatın:** Derhal ocağın veya elektrikli ısıtıcının düğmesini kapatarak ısı kaynağını kesin.
+2) **Oksijeni Kesin (Kapatıp Boğun):** Yanan tavanın veya tencerenin üzerine metal bir tencere kapağı, fırın tepsisi veya yangın battaniyesi kapatın.
+3) **Soğumaya Bırakın:** Kapağı hemen açmayın; tava tamamen soğuyana kadar kapalı tutun (hava girerse yağ tekrar parlar).
+4) Yangın kontrol dışına çıkarsa mutfağı terk edin, mutfak kapısını kapatın ve 112'yi arayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Yanan kızgın yağa KESİNLİKLE SU DÖKMEYİN (su buharlaşarak yağı atomize eder ve devasa bir alev topu/patlama oluşturur).
+- Alev almış tavayı elinize alıp lavaboya veya balkona TAŞIMAYA ÇALIŞMAYIN (dökülen yağ yangını tüm eve yayar).
+- Yangına un dökmeyin (un tozu havada patlama yapabilir).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ:
+- Tava alevleri davlumbaza, perdelere veya mutfak dolaplarına sıçradığı anda derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+4. YANGIN SÖNDÜRME TÜPÜ KULLANIMI (PASS / P.A.S.S. KURALI)
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Yangın söndürme tüpü nasıl kullanılır?
+- PASS kuralı nedir?
+- Yangın tüpü alevin neresine sıkılır?
+- Yangına kaç metre mesafeden müdahale edilir?
+
+## 📋 ADIM ADIM YANGIN TÜPÜ KULLANIM PROTOKOLÜ (PASS):
+1) **P (Pull / Pimi Çek):** Tüpün mandalında bulunan metal emniyet pimini hızla çekip çıkarın.
+2) **A (Aim / Yönelt):** Yangın tüpünün hortumunu veya nozulunu alevlerin üstüne değil, daima **alevlerin tabanına (kaynağına)** doğrultun.
+3) **S (Squeeze / Sık):** Tetiğe veya mandal mekanizmasına sonuna kadar basarak söndürücü maddeyi püskürtün.
+4) **S (Sweep / Süpür):** Hortumu sağa-sola süpürme hareketi yaparak alevlerin tabanını tamamen söndürücü toz/köpük ile kaplayın.
+5) Müdahaleyi daima rüzgarı arkanıza alarak ve alevlerden 1.5 - 2 metre güvenli mesafede durarak yapın.
+6) Kendi kaçış yolunuzu (çıkış kapısını) daima arkanızda açık bulundurun.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Yangın tüpünü alevin üst kısmındaki dumana sıkmayın (tabanına sıkılmalıdır).
+- Yangın tamamen sönmeden arkanızı yangına dönmeyin (yeniden parlama olabilir).
+
+---
+
+====================================================================
+5. ORMAN YANGINLARI KORUNMA VE TAHLİYE PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Orman yangını yaklaşırken nereye kaçılmalı?
+- Orman yangınında rüzgar yönü nasıl takip edilir?
+- Orman yangını ihbar hattı numarası kaçtır?
+
+## 📋 ADIM ADIM ORMAN YANGINI PROTOKOLÜ:
+1) Orman yangını fark ettiğinizde derhal **112 Acil Çağrı Merkezi** veya **177 Orman Yangın İhbar** hattını arayın.
+2) Yangının ilerleme yönünü ve rüzgarı tespit edin; rüzgarın estiği yöne doğru değil, **yangın cephesinin yanlarına ve rüzgarın tersine** doğru dik açıyla kaçın.
+3) Yokuş yukarı kaçmayın; yangınlar ve sıcak hava yokuş yukarı çok daha hızlı ilerler.
+4) Dumandan korunmak için ağzınızı ve burnunuzu ıslak bezle kapatın; vücudunuzu örten pamuklu kalın giysiler giyin.
+5) Yetkililerin tahliye duyurularına uyarak belirlenen güvenli toplanma alanlarına gidin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Yangınla aranızda tepe veya yamaç varken yangının hızını hafife almayın.
+- Yangın bölgesinde araba kullanırken yoğun duman içine doğru aracı sürmeyin.
+
+---
+
+====================================================================
+6. SEL VE SU BASKINI GÜVENLİK VE İLK YARDIM PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Sel anında ne yapılmalı, nereye sığınılır?
+- Sel suyunda araç kullanılır mı, araba sele kapılırsa ne yapılır?
+- Su baskınında elektrik çarpması nasıl engellenir?
+- Sel uyarısı verildiğinde evde hangi önlemler alınmalıdır?
+- Sel sularında yürümek tehlikeli mi?
+
+## 📋 ADIM ADIM İLK YARDIM VE TAHLİYE MÜDAHALESİ:
+1) **Erken Uyarı ve Yüksek Alanlara Geçiş:** Sel ve taşkın uyarısı alındığında derhal bodrum ve zemin katları boşaltıp binanın üst katlarına veya çevredeki en yüksek tepelik/güvenli noktalara çıkın.
+2) **Tesisatların Kapatılması:** Su basma ihtimaline karşı ana elektrik şalterini, doğalgaz ve su vanalarını derhal kapatın.
+3) **Sel Suyundan Kaçınma:** Sel sularının içine kesinlikle girmeyin; sadece 15 cm derinliğindeki hızlı akan suyun bir yetişkini kolayca devirip sürükleyebileceğini unutmayın.
+4) **Araç Güvenliği:** Sel suları kaplamış yollarda, alt geçitlerde ve köprülerde kesinlikle araç sürmeyin; yaklaşık 30-50 cm derinliğindeki su araçları yüzdürür ve sürükler.
+5) **Sürüklenen Araçtan Tahliye:** Aracınız sel suları içinde stop eder veya yükselmeye başlarsa, derhal aracı terk edip aracın tavanına çıkın veya yakındaki yüksek bir noktaya tırmanın.
+6) **Elektrik Tehlikesine Karşı Mesafe:** Sel ortamında suya temas eden direk, trafo veya kopmuş elektrik kablolarından en az 10-15 metre uzakta durun.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Sel sularında asla yürümeyin, yüzmeyin veya suyun derinliğini test etmeye çalışmayın (görünmeyen açık rögar kapakları, kanalizasyon çukurları ve molozlar ölümcül risk taşır).
+- Taşan dere yatakları, nehir kenarları, menfezler, köprüler ve alt geçitlere kesinlikle yaklaşmayın veya sığınmayın.
+- Elektrik bağlıyken suyun bastığı odalara veya elektrikli aletlere çıplak ayakla/ıslak elle dokunmayın.
+- Sel felaketi sonrası bölgedeki açıkta kalmış şebeke suyunu veya taşkın suyuna temas etmiş gıdaları kesinlikle tüketmeyin (kolera, tifo ve enfeksiyon riski taşır).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Su baskını nedeniyle mahsur kalındığında, çatıya veya yüksek noktaya sığınma zorunluluğu doğduğunda derhal 112 aranarak kesin konum paylaşılmalıdır.
+- Sel suyuna kapılan, hipotermi geçiren, elektrik çarpan veya yaralanan kişiler görüldüğünde acil kurtarma ve ambulans için 112 aranmalıdır.
+
+---
+
+====================================================================
+7. HEYELAN (TOPRAK KAYMASI) VE KAYA DÜŞMESİ PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Heyelan belirtileri nelerdir, nasıl anlaşılır?
+- Toprak kayması başladığında nereye kaçılır?
+- Heyelan anında bina içinde ne yapılır?
+
+## 📋 ADIM ADIM HEYELAN GÜVENLİK PROTOKOLÜ:
+1) **Ön Belirtileri Tanıyın:** Bina duvarlarında aniden büyüyen çatlaklar, kapı ve pencerelerin kasılarak kapanmaması, arazide/yollarda yarıklar, telefon direkleri ve ağaçların yamaç aşağı eğilmesi heyelan habercisidir.
+2) **Açık Alandaysanız:** Heyelan kütlesinin akış yolundan hızla yan taraflara doğru ve yüksek zeminlere doğru kaçın; nehir ve vadi tabanlarından uzaklaşın.
+3) **Bina İçinde Yakalandıysanız:** Binayı terk etmek için zaman yoksa sağlam bir eşyanın yanında ÇÖK - KAPAN - TUTUN pozisyonu alarak başınızı koruyun.
+4) Heyelan durduktan sonra gaz, elektrik ve su vanalarını kapatın ve ikincil kaymalara karşı hasarlı binalara girmeyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Toprak kayması yolunun içine doğru aşağı yönde koşmayın (heyelan insandan çok daha hızlı akar).
+- Dik yamaç diplerine ve dere yataklarına araç park etmeyin.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ:
+- Heyelan veya kaya düşmesi sonucu göçük altında kalanlar veya mahsur kalanlar için derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+8. ÇIĞ DÜŞMESİ VE ÇIĞ ALTINDA HAYATTA KALMA PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Çığ başladığında nereye kaçılmalı?
+- Çığ altında kalınca nasıl nefes alınır, hava kesesi nasıl yapılır?
+- Çığ altında yön nasıl bulunur (tükürük yöntemi)?
+- Çığda yüzme hareketi nasıl yapılır?
+
+## 📋 ADIM ADIM ÇIĞ HAYATTA KALMA PROTOKOLÜ:
+1) **Çığ Başladığında Kaçış:** Çığın doğrudan akış rotasından hızla YAN TARAFLARA (kenarlara) doğru kaçın; kayakları/batonları hemen çıkarıp atın.
+2) **Çığa Yakalandıysanız (Yüzme Hareketi):** Çığ kütlesi içinde kalırsanız kollarınızla serbest stil yüzme hareketleri yaparak karın yüzeyinde kalmaya çalışın.
+3) **Hava Kesesi (Nefes Boşluğu) Oluşturun:** Çığ durmadan hemen önce kollarınızı ve ellerinizi yüzünüzün önüne getirerek ağız ve burnunuzun etrafında bir HAVA KESESİ (nefes boşluğu) açın.
+4) **Tükürük ile Yön Bulma:** Kar altında yukarıyı ve aşağıyı ayırt edemiyorsanız, ağzınızdan bir miktar tükürün. Tükürük yerçekimiyle aşağı akacağından, tükürüğün aktığı yönün TAM TERSİ yukarıyı (yüzeyi) gösterir; o yöne doğru karı kazmaya çalışın.
+5) **Enerji Tasarrufu:** Sürekli bağırmayın; dışarıdan kurtarma ekibi veya arama köpeği sesi duyduğunuzda bağırın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Çığ altında panikleyip hızlı hızlı nefes almayın (sınırlı oksijen rezervinizi dakikalar içinde tüketir).
+- Çığ riski taşıyan bitki örtüsüz dik yamaçlarda tek başınıza dolaşmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ:
+- Çığ altında kalan kişi görüldüğünde saniye kaybetmeden 112 aranarak olay yeri ve kişi sayısı bildirilmelidir.

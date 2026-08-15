@@ -1,0 +1,294 @@
+# AFAD VE TÜRK KIZILAYI - KAPSAMLI DEPREM, ENKAZ VE AFET YÖNETİMİ REHBERİ
+
+====================================================================
+1. DEPREM ANI VE BİNA İÇİ GÜVENLİK PROTOKOLÜ (EV, OFİS, OKUL)
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Deprem başladığında evde ne yapmalıyım?
+- Deprem anında nereye saklanılır, nasıl pozisyon alınır?
+- Deprem sırasında merdivenlerden kaçılır mı, asansöre binilir mi?
+- Deprem anında çök kapan tutun nasıl yapılır?
+- Depremde balkona çıkmak veya pencereden atlamak doğru mu?
+- Mutfakta veya banyoda depreme yakalanırsam ne yapmalıyım?
+
+## 📋 ADIM ADIM İLK YARDIM VE GÜVENLİK PROTOKOLÜ:
+1) Sarsıntı başladığında kesinlikle panik yapmayın ve dışarıya koşmaya çalışmayın.
+2) Sağlam bir eşyanın (çamaşır makinesi, buzdolabı, ağır kanepe veya çelik dolap gibi) yanında ÇÖK - KAPAN - TUTUN pozisyonu alın.
+3) Başınızı ve boynunuzu iki elinizin arasına alarak veya yakınınızdaki bir yastık/minder/kitap ile koruyun.
+4) Sarsıntı tamamen bitene kadar sabit ve güvenli bir nesneye tutunarak pozisyonunuzu koruyun.
+5) Pencerelerden, cam kapılardan, aynalardan, asma tavanlardan ve devrilebilecek sabitlenmemiş yüksek mobilyalardan uzak durun.
+6) Mutfaktaysanız ocakta yanan ateşi hızla söndürüp tezgah/dolap yanına çökün; banyodaysanız ayna ve cam duşakabinden uzaklaşıp çamaşır makinesi yanına sığının.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Sarsıntı devam ederken kesinlikle merdivenlere koşmayın veya basamakları kullanmaya çalışmayın (en çok yapısal çökme ve ölüm merdiven boşluklarında yaşanır).
+- Asansörleri kesinlikle kullanmayın; asansördeyseniz en yakın kata basıp derhal terk edin.
+- Balkona çıkmayın, balkon korkuluklarına tutunmayın ve asla pencerelerden/balkondan aşağı atlamayın.
+- Açıkta, odanın tam ortasında veya kapı eşiklerinde ayakta beklemeyin (eski kapı eşikleri taşıyıcı değildir, savrulup yaralanabilirsiniz).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Sarsıntı bittikten sonra binada sıkışma, ağır yaralanma, göçük altında kalma veya gaz kaçağı/yangın şüphesi varsa derhal 112 aranmalıdır.
+- Hayati tehlike oluşturmayan durumlar için acil hatlar meşgul edilmemelidir.
+
+---
+
+====================================================================
+2. ENKAZ ALTINDA HAYATTA KALMA VE SES DUYURMA PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Depremde enkaz altında kalırsam ne yapmalıyım?
+- Enkaz altında ses nasıl duyurulur?
+- Göçük altında sürekli bağırmak doğru mu?
+- Enkaz altındayken oksijen nasıl tasarruflu kullanılır?
+- Enkaz altında kurtarma ekiplerine nasıl işaret verilir?
+- Enkaz altında su ve yiyecek olmadan nasıl dayanılır?
+
+## 📋 ADIM ADIM İLK YARDIM VE HAYATTA KALMA PROTOKOLÜ:
+1) Toz Koruması: Ağzınızı ve burnunuzu hemen bir kıyafet parçası, mendil veya kolunuzla kapatarak yoğun toz solumayı engelleyin.
+2) Enerji ve Oksijen Tasarrufu: Panik yapmayın, hareket alanınızı kontrol edin ve sakin nefes alarak enerjinizi koruyun; kesinlikle sürekli bağırmayın.
+3) Ritmik Vurma Yöntemi: Dışarıdan ayak sesi, iş makinesi gürültüsü veya arama-kurtarma ekibi sesi duyduğunuzda; yakınınızdaki kalorifer/su borusuna ya da sert bir duvara elinizdeki taş/metal cisimle ritmik vurun (3 kısa, 3 uzun darbe).
+4) Düdük Kullanımı: Yanınızda veya cebinizde düdük varsa nefesinizi tüketmeden düzenli ve kısa aralıklarla düdük çalın.
+5) Seslenme Zamanı: Yalnızca kurtarma ekiplerinin tam üzerinizde "Sesimi duyan var mı?" çağrısını duyduğunuz anda var gücünüzle "Buradayım!" diye bağırın.
+6) Hareket Alanı Kontrolü: İlerleyebileceğiniz güvenli bir çıkış varsa dikkatlice hareket edin; ancak üstünüzdeki moloz dengesini bozacak taşları kesinlikle çekmeyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Dışarıdan ses gelmediği sürece sürekli ve kontrolsüzce bağırmayın (tozu ciğerlere çeker, boğazı kurutur ve sınırlı oksijeni hızla tüketir).
+- Çakmak veya kibrit yakmayın (ortamda fark edilmeyen doğalgaz kaçağı patlamaya yol açabilir; aydınlatma için telefon veya el feneri kullanın).
+- Enkaz dengesini bozacak şekilde kontrolsüz moloz parçalarını çekmeyin veya aşırı hareket etmeyin.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Enkaz altındayken cep telefonunuz çekiyorsa SMS, internet tabanlı afet uygulamaları (AFAD Acil Çağrı) veya doğrudan 112 üzerinden konum ve durum bilgisi bildirilmelidir.
+
+---
+
+====================================================================
+3. HAYAT ÜÇGENİ OLUŞTURMA VE POZİSYON REHBERİ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Hayat üçgeni nedir ve nasıl oluşturulur?
+- Depremde hayat üçgeni için en güvenli eşyalar hangileridir?
+- Yatağın üstüne mi altına mı yatılmalı?
+- Deprem anında baza yanında nasıl durulur?
+- Masa altına girmek mi hayat üçgeni mi doğru?
+
+## 📋 ADIM ADIM HAYAT ÜÇGENİ ALMA PROTOKOLÜ:
+1) Çökme anında tavanın ağırlığına dayanabilecek sağlam, ağır ve hacimli eşyaların (çamaşır makinesi, çelik kasa, bazanın yan kenarı, ağır ahşap konsol yanı gibi) yanını seçin.
+2) Eşyanın tam yanına yan yatarak veya diz çökerek cenin pozisyonu alın.
+3) Baş ve ense bölgenizi kollarınızla veya yumuşak bir nesneyle sıkıca koruyun.
+4) Eşyanın üzerine değil, daima YAN YÜZEYİNE sığının; tavan çöktüğünde bu eşyaların yanında yaşam boşluğu (hayat üçgeni) oluşacaktır.
+5) Eğer sağlam bir çalışma masası varsa, masanın altına girip masa ayaklarına sıkıca tutunarak da Çök-Kapan-Tutun yapılabilir.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Koltukların, kanepelerin veya yatakların ÜSTÜNE uzanmayın (tavan çöktüğünde tavan ile eşya arasında ezilme riski doğar).
+- Ağır ancak içi boş/kolay ezilen dayanıksız mobilyaların yanına sığınmayın.
+- Merdiven boşluklarında, asansör kabinlerinde veya balkonlarda hayat üçgeni aramayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Bulunulan hayat üçgeni alanında mahsur kalınması veya yapısal çökme nedeniyle çıkış yolu bulunamaması halinde 112 aranmalıdır.
+
+---
+
+====================================================================
+4. DEPREM ANINDA ARAÇ İÇİNDE (SEYİR HALİNDE, TÜNELDE, OTOPARKTA) GÜVENLİK
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Araba kullanırken deprem olursa ne yapılmalı?
+- Tünel içinde depreme yakalanırsam ne yapmalıyım?
+- Kapalı otoparkta deprem anında arabada mı kalınır?
+- Köprü veya viyadük üstünde deprem olunca araç nasıl durdurulur?
+
+## 📋 ADIM ADIM ARAÇ İÇİ GÜVENLİK PROTOKOLÜ:
+1) **Açık Yolda / Seyir Halindeyken:**
+   1) Yolu kapatmadan aracınızı güvenli bir şekilde sağ şeride veya emniyet şeridine çekip durdurun.
+   2) Dörtlü flaşörleri yakın, kontak anahtarını yerinde bırakın, pencereleri kapatıp sarsıntı bitene kadar aracın İÇİNDE bekleyin.
+   3) Sarsıntı durduktan sonra açık alanlara yürüyerek geçin.
+2) **Köprü, Viyadük veya Üst Geçitteyseniz:**
+   1) Aracı derhal durdurun, kontak anahtarını üzerinde bırakıp aracı terk edin ve ayakla açık alana geçin.
+3) **Tünel İçinde İseniz:**
+   1) Çıkışa yakın değilseniz aracı sağa yanaştırıp durdurun, araçtan inin.
+   2) Aracın yanına yan yatarak cenin pozisyonu alın ve başınızı koruyun (Çök-Kapan-Tutun).
+4) **Kapalı Otoparkta İseniz:**
+   1) Aracın içinden çıkın; aracın yanına yan yatarak başınızı ve boynunuzu koruyun (tavan çökmesinde araç hayat üçgeni oluşturur).
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Binaların, yüksek duvarların, elektrik direklerinin ve üst geçitlerin hemen altına aracı park etmeyin.
+- Tünel ve kapalı otoparklarda araç içinde oturmaya devam etmeyin (tavan çöktüğünde araç tavanı ezilir, yanındaki boşluk güvenlidir).
+- Kontak anahtarını asla yanınıza alıp kilitlemeyin (acil kurtarma araçlarının geçişi için arabanın çekilebilmesi gerekir).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Araçta sıkışma, tünelde çökme veya otoyolda yaralanmalı zincirleme kaza yaşanması durumunda 112 aranmalıdır.
+
+---
+
+====================================================================
+5. DEPREM ANINDA AÇIK ALANDA, SOKAKTA VE PARKLARDA YAPILACAKLAR
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Sokakta yürürken deprem olursa nereye kaçmalıyım?
+- Dışarıda deprem anında bina içine girilir mi?
+- Açık alanda depremden nasıl korunulur?
+- Parkta veya bahçede deprem anında ne yapılır?
+
+## 📋 ADIM ADIM AÇIK ALAN GÜVENLİK PROTOKOLÜ:
+1) Binalardan, duvar diplerinden, balkon altlarından ve cam cephelerden hızla uzaklaşın (en büyük tehlike düşen sıva, cam ve baca tuğlalarıdır).
+2) Elektrik direkleri, yüksek gerilim telleri, reklam panoları ve ağaçlardan uzak durun.
+3) Açık bir alanda (park, meydan, geniş otopark) yere çömelin veya Çök-Kapan-Tutun yaparak hedef küçültün.
+4) Yamaç veya dik bayır altındaysanız kaya düşmesi ve toprak kayması (heyelan) riskine karşı güvenli düzlüklere geçin.
+5) Deniz kenarındaysanız tsunami tehlikesine karşı hızla iç ve yüksek kesimlere yönelin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Dışarıdayken korunmak amacıyla kesinlikle bina içlerine veya pasajlara KAÇMAYIN.
+- Yıkılma tehlikesi olan duvarların ve trafoların yakınına sığınmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Açık alanda düşen parçalar nedeniyle yaralanma veya elektrik teli kopması sonucu tehlike varsa 112 aranmalıdır.
+
+---
+
+====================================================================
+6. DEPREM ANINDA METRO, TREN, AVM VE KALABALIK ALANLARDA GÜVENLİK
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Metroda veya trende deprem anında trenden inilir mi?
+- AVM'de, sinemada veya tiyatroda deprem olursa ne yapılmalı?
+- Kalabalık mekanlarda deprem izdihamından nasıl korunulur?
+
+## 📋 ADIM ADIM KALABALIK ALAN GÜVENLİK PROTOKOLÜ:
+1) **Metro ve Toplu Taşımada:**
+   1) Kesinlikle araçtan dışarı atlamayın (yüksek gerilim hattı ve karşıdan gelen tren çarpma riski vardır).
+   2) Sabit tutamaklara, askılara veya koltuklara sıkıca tutunun.
+   3) Görevlilerin anons ve tahliye talimatlarına harfiyen uyun.
+2) **AVM, Sinema ve Tiyatroda:**
+   1) Çıkış kapılarına doğru panikle hücum etmeyin (izdihamda ezilme riski doğar).
+   2) Sıra aralarında veya sağlam koltukların yanında Çök-Kapan-Tutun pozisyonu alın.
+   3) Asansör ve yürüyen merdivenlerden uzak durun; sarsıntı bitince yangın çıkış merdivenlerini kullanarak sakince tahliye olun.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Metro raylarına kontrolsüzce inmeyin.
+- Kalabalık alanlarda kapılara hücum edip ezilmeye yol açmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Metro tünelinde çökme, yangın veya kalabalık alanlarda izdiham kaynaklı ağır yaralanmalarda 112 aranmalıdır.
+
+---
+
+====================================================================
+7. ENGELLİ, YAŞLI VE HAREKET KISITLILIĞI OLANLAR İÇİN DEPREM PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Tekerlekli sandalye kullananlar deprem anında ne yapmalı?
+- Yatağa bağımlı hastalar depremde nasıl korunur?
+- Yaşlılar ve yürüme güçlüğü çekenler için deprem güvenlik adımları nelerdir?
+
+## 📋 ADIM ADIM ÖZEL İHTİYAÇ PROTOKOLÜ:
+1) **Tekerlekli Sandalye Kullanıcıları:**
+   1) Kesinlikle kendinizi sandalyeden yere atmayın.
+   2) Sandalyenizin tekerlek kilitlerini (frenlerini) derhal kilitleyin.
+   3) Öne doğru eğilerek başınızı ve ensenizi ellerinizle, kollarınızla veya bir yastıkla kapatıp Çök-Kapan-Tutun yapın.
+2) **Yatağa Bağımlı Bireyler:**
+   1) Yataktan yere düşmeyecek şekilde yatağın ortasında kalın.
+   2) Yastığınızı başınızın ve yüzünüzün üzerine çekerek iki elinizle sıkıca tutun.
+3) **Yürüteç veya Baston Kullananlar:**
+   1) En yakın güvenli eşyanın yanına oturun veya çömelin, başınızı koruyun.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Tekerlekli sandalyeden kontrolsüzce atlayıp yerde sürünmeye çalışmayın.
+- Sarsıntı esnasında engelli bireyleri merdivenlerden taşımaya kalkışmayın (sarsıntı durunca tahliye edin).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Hareket kısıtlılığı nedeniyle binadan tek başına tahliye olamayan ve yardımcısı bulunmayan bireyler için derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+8. DEPREM SONRASI İLK 15 DAKİKA, TAHLİYE VE İKİNCİL AFET GÜVENLİĞİ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Deprem bittikten sonra ilk ne yapılmalı?
+- Deprem sonrası evden nasıl çıkılır?
+- Sarsıntı durunca doğalgaz, su ve elektrik kapatılmalı mı?
+- Deprem sonrası toplanma alanına ne zaman gidilir?
+- Hasarlı binaya geri dönülür mü?
+
+## 📋 ADIM ADIM TAHLİYE VE GÜVENLİK PROTOKOLÜ:
+1) Sarsıntı tamamen durduktan sonra kendi emniyetinizi ve ailenizi kontrol edin.
+2) İkincil afetleri (yangın, patlama, su baskını) önlemek için derhal doğalgaz ana vanasını, su vanasını ve elektrik ana şalterini kapatın.
+3) Ayaklarınızı kırık cam ve molozlardan korumak için kalın tabanlı ayakkabılarınızı giyin.
+4) Önceden hazırladığınız Afet ve Acil Durum Çantanızı yanınıza alın.
+5) Asansörleri kesinlikle kullanmadan, merdivenlerden dikkatli ve hızlı adımlarla binayı tahliye edin.
+6) Binadan çıkar çıkmaz belirlenen mahalle Afet Toplanma Alanına gidin; yüksek binalardan ve elektrik tellerinden uzak durun.
+7) Artçı sarsıntılara karşı hazırlıklı olun ve hasarlı binalara kesinlikle geri girmeyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Sarsıntı biter bitmez panikle eşya toplamaya çalışmayın.
+- Tahliye sırasında kesinlikle asansör kullanmayın.
+- Kibrit, çakmak yakmayın veya elektrik düğmelerine dokunmayın (gaz sızıntısı patlama yapabilir).
+- Resmi makamlar "Güvenli" duyurusu yapmadıkça hasarlı binalara geri dönmeyin.
+- Telefon hatlarını gereksiz sesli aramalarla meşgul etmeyin (SMS veya internet üzerinden iletişim kurun).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Tahliye esnasında bina içinde mahsur kalan, ağır yaralanan veya yangın/patlama oluşan durumlar görüldüğünde derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+9. DEPREM SONRASI KIYI BÖLGELERİNDE TSUNAMİ TEHLİKESİ VE TAHLİYE
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Depremden sonra deniz çekilirse ne yapılmalı?
+- Türkiye kıyılarında tsunami olur mu, nasıl korunulur?
+- Tsunami uyarısı gelince nereye kaçılmalı?
+
+## 📋 ADIM ADIM TSUNAMİ TAHLİYE PROTOKOLÜ:
+1) Kıyı bölgesinde şiddetli bir deprem hissettiğinizde veya denizin aniden olağandışı şekilde geri çekildiğini gördüğünüzde TSUNAMİ TEHLİKESİNİ BEKLEMEDEN HAREKETE GEÇİN.
+2) Sahil şeridini, plajları ve limanları derhal terk edin.
+3) Deniz seviyesinden en az 20-30 metre yüksekteki tepelere veya sahil şeridinden en az 1-2 kilometre iç kesimlere doğru hızla yürüyerek/koşarak uzaklaşın.
+4) Tsunami dalgaları tek bir dalgadan ibaret değildir; ilk dalgadan sonraki dalgalar daha büyük olabilir. Yetkililer "Tehlike Geçti" anonsu yapana kadar kıyıya geri dönmeyin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Deniz çekilmesini izlemek veya fotoğraf çekmek için kıyıda/kumsalda beklemeyin.
+- Araçla tahliye olmaya çalışarak sahil yollarında trafik tıkanıklığı yaratmayın (yaya olarak hızla yüksek kesimlere tırmanın).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Tsunami dalgasına kapılan, sürüklenen veya kıyıda mahsur kalan kişiler görüldüğünde derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+10. DEPREM ÖNCESİ HAZIRLIK: TEHLİKE AVI VE AFET ÇANTASI
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Deprem öncesi evde tehlike avı nasıl yapılır?
+- Mobilyalar duvara nasıl sabitlenir?
+- Deprem çantasında neler bulunmalıdır?
+- Afet çantasında ne kadar su olmalıdır?
+
+## 📋 ADIM ADIM HAZIRLIK VE ÇANTA LİSTESİ:
+1) **Tehlike Avı ve Sabitleme:**
+   1) Dolapları, kitaplıkları, buzdolabını ve ağır mobilyaları L demir braketlerle taşıyıcı duvarlara sabitleyin.
+   2) Yatakların başucuna ayna, tablo veya ağır raflar asmayın.
+   3) Ağır eşyaları dolapların alt raflarına, hafif eşyaları üst raflara yerleştirin.
+2) **Acil Durum Çantası İçeriği:**
+   1) Su: Kişi başı günlük en az 2 litrelik ambalajlı su.
+   2) Gıda: Yüksek kalorili, bozulmayan konserve veya kuru gıdalar (kuru meyve, kuruyemiş, bisküvi).
+   3) Arama-Kurtarma: Yüksek sesli düdük, el feneri ve yedek piller.
+   4) İlk Yardım: Gazlı bez, sargı bezi, yara bandı, makas, turnike ve antiseptik.
+   5) Sağlık ve Hijyen: Düzenli şahsi ilaçlar, sabun, dezenfektan, ıslak mendil, maske.
+   6) Donanım: Çok amaçlı çakı, kalın iş eldiveni, termal battaniye ve nakit para.
+   7) Çantayı çıkış kapısına yakın bir yere koyun ve malzemeleri 6 ayda bir kontrol edin.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Çantayı kilitli dolaplara veya ulaşılması zor yerlere saklamayın.
+- Çabuk bozulan et ve süt ürünlerini çantaya koymayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Afet anında çantadaki malzemelere rağmen durdurulamayan ağır kanama veya acil tıbbi krizlerde 112 aranmalıdır.

@@ -1,0 +1,14 @@
+# AfetRehberi — Foundry Local Offline RAG
+# Python 3.11+
+
+# macOS / Linux:
+foundry-local-sdk>=1.1.0
+
+# Windows kullanıcıları bunun yerine şunu kurmalı (birlikte kurmayın):
+# foundry-local-sdk-winml>=1.1.0
+
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-dotenv>=1.0.0
+gradio>=4.44.0
+pytest>=8.0.0

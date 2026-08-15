@@ -1,0 +1,5 @@
+{
+  "name": "AfetRehberi Local RAG",
+  "description": "Offline Foundry Local RAG assistant for emergency situations (AFAD/Kızılay guidelines).",
+  "requestFramePermissions": ["microphone"]
+}

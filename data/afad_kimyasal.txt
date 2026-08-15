@@ -1,0 +1,192 @@
+# AFAD VE TÜRK KIZILAYI - KİMYASAL, BİYOLOJİK, RADYOLOJİK VE NÜKLEER (KBRN) AFET REHBERİ
+
+====================================================================
+1. KİMYASAL VE GAZ SIZINTISI (KBRN) İLK YARDIM VE TAHLİYE PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Kimyasal gaz sızıntısında ne yapmalıyım?
+- Gaz kokusu aldığımda nasıl korunurum?
+- Kimyasal sızıntıda nereye kaçılır, rüzgar yönü nasıl olmalı?
+- Göze veya cilde kimyasal madde temasında ilk yardım nasıl yapılır?
+- Zehirli gaz sızıntısında sığınak ve ev içi güvenlik önlemleri nelerdir?
+- Kimyasal gaz maskesi yoksa ne takılır?
+
+## 📋 ADIM ADIM İLK YARDIM VE TAHLİYE MÜDAHALESİ:
+1) **Hemen Uzaklaşma ve Konum Alma:** Sızıntı bölgesinden derhal uzaklaşın; rüzgarı arkanıza alarak (rüzgar üstü) ve toksik gazlar havadan ağır olup çukur alanlara çökeceği için daima **yüksek yerlere** doğru ilerleyin.
+2) **Solunum Koruması:** Ortamda maske varsa takın; yoksa ağzınızı ve burnunuzu ıslak pamuklu bir bez, mendil veya kıyafetinizle sıkıca kapatarak süzgeç etkisi oluşturun.
+3) **Ev/Bina İçi Sığınma (Tahliye Edilemiyorsa):** Binaların bodrum/zemin katları yerine üst katlarındaki penceresi en az olan iç odayı sığınma yeri seçin; kapı altlarını, havalandırmaları ve pencere aralıklarını ıslak bez ve koli bandı ile hava sızdırmaz hale getirin.
+4) **Göz ve Cilt Dekontaminasyonu (Arındırma):** Kimyasal madde temas ettiğinde gözleri ve cildi basınçsız, bol ve ılık akan su ile ovmadan en az 15-20 dakika boyunca kesintisiz yıkayın.
+5) **Kıyafetlerin Güvenli İzolasyonu:** Kirlenmiş giysileri başınızdan sıyırmadan (keserek veya önünü açarak) dikkatlice çıkarın, çift katlı plastik bir poşete koyup ağzını sıkıca bağlayarak izole bir alana bırakın.
+6) **Kayıt ve Bilgi Toplama:** Maruz kalınan kimyasalın kokusu, fiziksel formu (sıvı/gaz/toz) ve süresi hakkında sağlık ekiplerine iletmek üzere bilgi toplayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Açık alev, çakmak, kibrit kesinlikle yakmayın; ortamda parlayıcı/patlayıcı gaz olabileceği için elektrik düğmelerine, sigortalara, prizlere dokunmayın ve asansör çağırmayın.
+- Çukur, bodrum kat, tünel, alt geçit ve vadi gibi alçak alanlara kesinlikle sığınmayın (ağır toksik gazlar bu alanlarda birikir).
+- Kimyasala temas eden cildi ve gözleri asla ovalamayın, sert bezle silmeyin veya cilde merhem, yağ, diş macunu sürmeyin.
+- Kimyasal gaz kirliliği olan bölgedeki açıkta kalmış yiyecek ve suları kesinlikle tüketmeyin.
+- Kimyasal sindirim yoluyla yutulmuşsa hastayı kesinlikle kusturmaya çalışmayın (yemek borusunda ikinci bir kimyasal yanık oluşturur).
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ VE 114 UZEM NE ZAMAN ARANMALI?
+- Kimyasal sızıntı, zehirli duman veya tehlikeli gaz tespit edildiğinde derhal **112 Acil Çağrı Merkezi** aranmalı ve KBRN ekiplerine durum bildirilmelidir.
+- Kimyasalın türüne özel tıbbi antidot ve ilk yardım talimatı almak için **114 Ulusal Zehir Danışma Merkezi (UZEM)** aranmalıdır.
+- Solunum güçlüğü, ciltte şiddetli yanık, bilinç bulanıklığı, görme kaybı veya bayılma geliştiğinde acil tıbbi transfer sağlanmalıdır.
+
+---
+
+====================================================================
+2. DOĞALGAZ VE LPG (TÜP GAZ) KAÇAĞI GÜVENLİK PROTOKOLÜ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Evde doğalgaz kokusu var ne yapmalıyım?
+- Gaz kaçağında elektrik düğmesine basılır mı?
+- Mutfakta tüp gaz kaçağında ilk yardım ve güvenlik adımları nelerdir?
+- Doğalgaz acil numarası kaçtır?
+
+## 📋 ADIM ADIM DOĞALGAZ GÜVENLİK PROTOKOLÜ:
+1) Ortamdaki tüm kapı ve pencereleri derhal açarak hızlı bir doğal hava akımı sağlayın.
+2) Daire girişindeki ana doğalgaz vanasını veya LPG tüpünün dedantör vanasını hemen kapatın.
+3) Kesinlikle hiçbir elektrik düğmesine dokunmayın (lambayı AÇMAYIN veya AÇIKSA KAPATMAYIN).
+4) Fişleri prizden çekmeyin veya takmayın; kapı zillerini ve sabit/cep telefonlarını gazlı ortamda kullanmayın (küçük bir kıvılcım büyük patlamaya yol açar).
+5) Gaz kokusu hissedilen binayı derhal tahliye edin; tahliye sırasında kesinlikle asansör kullanmayın.
+6) Binadan tamamen çıkıp güvenli ve açık bir alana ulaştıktan sonra **187 Doğalgaz Acil** ve **112 Acil Çağrı Merkezi**'ni arayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Gaz kaçağını çakmak, kibrit veya mum ateşiyle KESİNLİKLE KONTROL ETMEYİN.
+- Gaz kokusu olan ortamda cep telefonuyla arama yapmayın veya elektrikli süpürge çalıştırmayın.
+- Doğalgaz havadan hafiftir tavana yükselir; LPG (tüp gaz) havadan ağırdır tabana çöker. LPG kaçağında süpürgeyle gazı dışarı doğru süpürür gibi havalandırın.
+
+## 🚨 187 DOĞALGAZ ACİL VE 112 NE ZAMAN ARANMALI?
+- Çürük sarımsak benzeri gaz kokusu hissedildiği anda ortam güvenliği sağlanıp dışarı çıkılarak 187 ve 112 aranmalıdır.
+
+---
+
+====================================================================
+3. EVSEL KİMYASAL KARIŞIMLARI VE ZEHİRLENMELERİ (ÇAMAŞIR SUYU + TUZ RUHU / KLOR GAZI)
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Çamaşır suyu ile tuz ruhu karıştırılırsa ne olur?
+- Banyo temizlerken klor gazından zehirlendim ne yapmalıyım?
+- Çamaşır suyu buharı solunduğunda ilk yardım nedir?
+- Porçöz veya kireç sökücü zehirlenmesinde ne yapılır?
+
+## 📋 ADIM ADIM İLK YARDIM PROTOKOLÜ:
+1) Çamaşır suyu (sodyum hipoklorit) ile tuz ruhu (hidroklorik asit) karıştığında ölümcül **KLOR GAZI** açığa çıkar; kazazedeyi DERHAL banyodan/ortamdan açık temiz havaya çıkarın.
+2) Ortamın kapı ve pencerelerini sonuna kadar açıp vantilatörle havalandırın.
+3) Kazazedenin yakasını, kravatını ve kemerini gevşetip derin derin temiz hava solumasını sağlayın.
+4) Kazazedeye bol ılık su ile ağzını ve boğazını çalkalatın.
+5) Derhal **114 UZEM (Ulusal Zehir Danışma)** ve **112 Acil Çağrı Merkezi**'ni arayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Çamaşır suyu, tuz ruhu, kireç sökücü veya lavabo açıcı gibi asidik ve bazik kimyasalları KESİNLİKLE BİRBİRİYLE KARIŞTIRMAYIN.
+- Zehirlenen kişiyi KESİNLİKLE KUSTURMAYIN (klor gazı ve kimyasal buhar soluk borusu ile yemek borusunda ikinci bir tahrişe ve akciğer ödemine yol açar).
+- Bilinci yerinde olmayan kişiye zorla yoğurt, süt veya sıvı içirmeyin.
+
+## 🚨 112 VE 114 UZEM NE ZAMAN ARANMALI?
+- Şiddetli öksürük, boğazda yanma, göğüste baskı, nefes darlığı veya ses kısıklığı başladığı anda derhal 112 ve 114 aranmalıdır.
+
+---
+
+====================================================================
+4. ASİT VE KOSTİK (ALKALI) KİMYASAL MADDE YANIKLARI
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Cilde asit döküldüğünde ilk yardım nasıl yapılır?
+- Göze lavabo açıcı veya kireç sıçradığında ne yapılmalı?
+- Kimyasal yanıkta su dökülür mü, nasıl yıkanır?
+
+## 📋 ADIM ADIM İLK YARDIM PROTOKOLÜ:
+1) **Cilt Yanıklarında:** Kimyasalın temas ettiği bölgeyi basınçsız, bol ve ılık çeşme suyu altında KESİNTİSİZ EN AZ 20 DAKİKA boyunca yıkayın.
+2) Kimyasala bulaşmış giysileri baş üzerinden çekmeden, keserek veya fermuarını açarak dikkatlice çıkarın.
+3) Kuru toz kimyasal döküldüyse, su dökmeden önce kuru bir fırça veya bezle tozu ciltten süpürün (bazı toz kimyasallar suyla temas edince ısı üretir), ardından bol suyla yıkayın.
+4) **Göze Kimyasal Sıçramasında:** Göz kapaklarını açık tutarak gözü içten dışa doğru bol temiz suyla en az 15-20 dakika yıkayın (diğer göze kimyasal akmamasına dikkat edin).
+5) Yıkanan bölgeyi steril, kuru ve temiz bir bezle gevşekçe örtün.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Asit yanığına baz (karbonat, sabun), baz yanığına asit (sirke) dökerek "nötralize etmeye" ÇALIŞMAYIN (kimyasal reaksiyon yüksek ısı üreterek dokuyu daha derin yakar).
+- Yanık bölgesine yoğurt, diş macunu, merhem veya yağ sürmeyin.
+- Gözü ovalamayın veya kimyasal temas eden gözü sertçe kapatmayın.
+
+## 🚨 112 ACİL ÇAĞRI MERKEZİ NE ZAMAN ARANMALI?
+- Göze kimyasal temasında, geniş cilt yanıklarında veya derin kimyasal doku hasarında derhal 112 aranmalıdır.
+
+---
+
+====================================================================
+5. RADYOLOJİK VE NÜKLEER KAZA / RADYOAKTİF SERPİNTİ KORUNMA REHBERİ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Nükleer patlama veya radyasyon sızıntısında nasıl korunulur?
+- Radyoaktif serpintide nereye sığınılmalı?
+- İyot tableti (potasyum iyodür) ne zaman ve nasıl içilir?
+- Radyasyon bulaşmış kıyafetler nasıl temizlenir?
+
+## 📋 ADIM ADIM RADYASYONDAN KORUNMA PROTOKOLÜ:
+1) **Hemen Kapalı Alana Sığının:** Radyasyondan en iyi koruyan yerler kalın beton veya tuğla duvarlı binaların orta katları veya yeraltı sığınakları/bodrumlarıdır.
+2) **Bina İzolasyonu:** Kapı, pencere ve havalandırma sistemlerini kapatın; klima ve fanları durdurun; açıklıkları ıslak bez ve bantla kapatın.
+3) **Dekontaminasyon (Arınma):** Dışarıdan girdiyseniz üzerinizdeki kıyafetleri çıkarıp plastik bir torbaya koyup ağzını bağlayın (radyoaktif tozun %90'ı kıyafetlerdedir). Ilık su ve sabunla saçınızı ve cildinizi ovalamadan nazikçe yıkayın.
+4) **Gıda ve Su Güvenliği:** Yalnızca kapalı konserve, paketli gıdalar ve kapalı şişe suları tüketin; açıkta kalmış gıdaları ve musluk suyunu kullanmayın.
+5) **Resmi Duyuruları Bekleyin:** İlk 24-48 saat radyoaktif seviyenin en yüksek olduğu dönemdir; AFAD "Tehlike Geçti" anonsu yapana kadar sığınaktan çıkmayın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- **İyot Tabletini Rastgele İçmeyin:** Potasyum İyodür (İyot tableti) sadece radyoaktif iyota karşı tiroid bezini korur; tüm radyasyonu engellemez. Sağlık Bakanlığı ve AFAD'ın resmi talimatı olmadan ASLA kafanıza göre iyot tableti içmeyin (kalp ve tiroid zehirlenmesine yol açabilir).
+- Duş alırken cildi tırnaklamayın veya cildi tahriş edecek sert sünger kullanmayın (radyoaktif tozun deriden içeri girmesine sebep olur).
+- Saç kremi kullanmayın (radyoaktif parçacıkları saç teline bağlar).
+
+## 🚨 AFAD VE 112 ACİL BİLDİRİMİ:
+- Radyolojik acil durumlarda AFAD KBRN ekiplerinin yönlendirmeleri, radyo ve televizyon duyuruları takip edilmeli; tıbbi acillerde 112 aranmalıdır.
+
+---
+
+====================================================================
+6. AFAD KBRN İKAZ VE ALARM SİRENLERİ ANLAMLARI
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- AFAD siren sesleri ne anlama gelir?
+- Düz siren, dalgalı siren ve kesikli siren anlamı nedir?
+- Siyah alarm nedir, çalınca ne yapılır?
+- Sarı ikaz ve kırmızı alarm arasındaki fark nedir?
+
+## 📋 AFAD SİREN SİSTEMİ VE HAREKET TARZI:
+1) **Sarı İkaz (Hava Saldırısı İhtimali):**
+   - **Ses:** 3 dakika süreli DÜZ (kesintisiz) siren sesi.
+   - **Yapılacaklar:** Gaz, elektrik ana şalteri ve su vanalarını kapatın; soba/ocağı söndürün; sığınma yerine geçiş hazırlığı yapın.
+2) **Kırmızı Alarm (Hava Saldırısı Tehlikesi):**
+   - **Ses:** 3 dakika süreli YÜKSELİP ALÇALAN (dalgalı) siren sesi.
+   - **Yapılacaklar:** Derhal en yakın sığınağa veya korunaklı bodrum katına saklanın.
+3) **Siyah Alarm (KBRN / Kimyasal-Biyolojik-Radyolojik Tehdit):**
+   - **Ses:** 3 dakika süreli KESİKLİ (aralıklı) siren sesi.
+   - **Yapılacaklar:** Kimyasal veya nükleer serpinti tehlikesidir. Derhal sığınma odasına geçin; kapı ve pencere aralıklarını bantlayıp ıslak bezle tıkayın; dışarıya kesinlikle çıkmayın.
+4) **Beyaz İkaz (Tehlike Geçti):**
+   - **Duyuru:** Sirenle değil; radyo, TV, megafon ve AFAD mobil bildirimi ile duyurulur.
+   - **Yapılacaklar:** Sığınaktan dikkatlice çıkılabilir; yetkililerin talimatlarını dinleyin.
+
+---
+
+====================================================================
+7. KİMYASAL VE ZEHİRLİ MADDE YUTMA (SİNDİRİM) ACİLLERİ
+====================================================================
+
+## Kullanıcı Soruları ve Arama Senaryoları:
+- Çocuğum deterjan / çamaşır suyu içti ne yapmalıyım?
+- Kimyasal madde yutan kişi kusturulur mu?
+- Gaz yağı, tiner veya benzin içildiğinde ilk yardım nedir?
+- Zehirlenmede 114 UZEM nasıl aranır?
+
+## 📋 ADIM ADIM İLK YARDIM PROTOKOLÜ:
+1) Ağız çevresinde kimyasal kalıntısı varsa temiz bir bezle silin ve ağzını suyla çalkalatın (yutmadan tükürmesini sağlayın).
+2) Kimyasal maddenin ambalajını, kutusunu veya şişesini hemen emniyete alın (doktora göstermek için).
+3) Derhal **114 UZEM (Ulusal Zehir Danışma Merkezi)**'ni ve **112 Acil Çağrı Merkezi**'ni arayın; kutunun üzerindeki etken maddeyi ve içilen miktarı sağlık personeline iletin.
+4) Kazazedenin bilinci açıksa sakinleştirip dik oturtun; bilinci bulanıksa koma (yan yatış) pozisyonuna alın.
+
+## ⚠️ KESİNLİKLE YAPILMAMASI GEREKENLER:
+- Asit, baz, çamaşır suyu, tiner, benzin veya deterjan yutan kişiyi KESİNLİKLE KUSTURMAYIN (madde geri gelirken yemek borusunu ve soluk borusunu ikinci kez yakar, akciğere kaçarak ölüme neden olur).
+- Bilinçsizce süt, zeytinyağı, tuzlu su veya çiğ yumurta içirmeyin (zehrin emilimini hızlandırabilir veya mideyi kusturabilir).
+
+## 🚨 114 UZEM VE 112 ÇAĞRI MERKEZİ:
+- Her türlü evsel veya endüstriyel kimyasal yutulması vakasında zaman kaybetmeden 114 UZEM ve 112 aranmalıdır.
